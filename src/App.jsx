@@ -32,7 +32,7 @@ function App() {
         <div id="logo" className="flex flex-col items-center">
           <div className="h-72 w-72 rounded-full overflow-hidden shadow-2xl dark:shadow-pink-300">
             <img
-              src="img1.jpg"
+              src="/src/assets/img1.jpg"
               alt="Irfan"
               className="h-full w-full object-cover"
             />
